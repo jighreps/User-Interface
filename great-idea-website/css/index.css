@@ -102,10 +102,29 @@ h1, h2, h3, h4, h5 {
 }
 /* round image  */
 .imgHeader{
-	width: 30%;
-	margin-left: 58%;
+	 
+	
+	display: inline-block; 
+	
+	 
+} .innovation  { 
+	padding:25%;
+	font-size: 4em;
 	display:inline-block;
+	width: 10%;
+	
+	
 }
+ 
+
+.one {
+	 
+	display: inline-block; 
+	margin-left: 50%;
+	text-align: center;
+
+}
+
 /* for long image in middle of screen */
 .middle-img{
 	display: inline-block;
